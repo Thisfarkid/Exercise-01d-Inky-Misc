@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Dylan Laiben
 
-# Your Github username
+# Thisfarkid
